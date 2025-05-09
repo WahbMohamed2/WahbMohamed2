@@ -27,8 +27,8 @@ My mission is to merge technical skill with real impact
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/wahbmohamed](https://www.linkedin.com/in/wahbmohamed)
-- Email: wahbmohamed@gmail.com
+- LinkedIn: [linkedin.com/in/wahbmohamed]([https://www.linkedin.com/in/wahbmohamed](https://www.linkedin.com/in/wahb-mohamed-786a69213/))
+- Email: wahbmohamed407@gmail.com
 
 ---
 
