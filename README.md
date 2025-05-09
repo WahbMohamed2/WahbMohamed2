@@ -1,16 +1,36 @@
-## Hi there 👋
+# Wahb Mohamed
 
-<!--
-**WahbMohamed2/WahbMohamed2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Data Science Enthusiast | Computer Science Student | Deep Learning Practitioner**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I’m Wahb Mohamed, a computer science student with a strong focus on AI and data science. I’m deeply passionate about building intelligent systems that solve real-world problems — particularly in areas like computer vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Current Focus
+- Building intelligent solutions that combine **CNNs, NLP, and real-time analytics**.
+- Exploring the practical applications of AI in security, education, and automation.
+
+---
+
+##  Skills & Tools
+- **Languages:** Python, C, JavaScript, Prolog, SQL
+- **AI/ML:** TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib
+- **Deep Learning:** CNNs, Feedforward Networks, Transfer Learning
+- **Tools:** Git, Linux, Notion, VS Code
+
+---
+
+
+##  Vision
+My mission is to merge technical skill with real impact
+
+---
+
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/wahbmohamed](https://www.linkedin.com/in/wahbmohamed)
+- Email: wahbmohamed@gmail.com
+
+---
+
+> “Code with purpose. Learn with intention. Build what matters.”  
+
